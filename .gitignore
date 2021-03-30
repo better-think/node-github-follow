@@ -103,3 +103,4 @@ dist
 .tern-port
 
 package.log.json
+package-lock.json
